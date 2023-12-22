@@ -7,13 +7,13 @@
 
 body {
     min-height: 100vh;
-    background-color: #090c31;
+    background-color: #cec9c9;
     display: grid;
     place-items: center;
 }
 
 .calculadora {
-    background-color: #15173c;
+    background-color: #444563;
     color: white;
     width: 350px;
     max-width: 100%;
@@ -58,7 +58,7 @@ body {
 
 #igual {
     grid-row: span 2;
-    background-color: #e6394a;
+    background-color: #e65c39;
 }
 
 #igual:hover {
